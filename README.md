@@ -158,29 +158,7 @@ run_processor(A=1, B=0, C=0, D=1)  # Expected Y = 0 | 1 = 1
 
 ## Demo Video
 
-**Yes — video recordings can be uploaded to YouTube.**  
-Set visibility to **Unlisted** so anyone with the link can view it, then
-submit the URL to iCollege. This satisfies the "necessary viewing
-permissions" requirement without making the video public.
-
-**Suggested demo script (4–5 min):**
-1. (0:00–0:45) Open the repo; walk through file structure
-2. (0:45–2:00) Explain `control_unit.py` — how funct → control signals
-3. (2:00–3:00) Explain `alu.py` — how InvertA implements NOT
-4. (3:00–4:00) Run `python processor.py` — narrate the trace output
-5. (4:00–5:00) Show the PASS summary; confirm Y matches expected values
-
----
-
-## GitHub Submission
-
-```bash
-git init
-git add .
-git commit -m "Task 4: Single-cycle 32-bit processor — Y = A·B + C'·D"
-git remote add origin https://github.com/<your-username>/<repo-name>.git
-git push -u origin main
-```
+**Submit the Screen Recorder form the desktop and explain fully in 5 mninutes how to get all 5 test cases PASSED!**  
 
 ---
 
